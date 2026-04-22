@@ -1,0 +1,8 @@
+body{
+    background-color:rgb(0, 2, 36);
+    color:rgb(255, 255, 255);
+    background-image: url(../assets/images/GIF-Maker-Halloween-GIF-Transparent.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

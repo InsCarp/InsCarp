@@ -14,13 +14,4 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    font-family: Portfolio;
-}
-
-h1, h2{
-    color:aqua;
-}
-
-h3{
-    color:aquamarine;
 }

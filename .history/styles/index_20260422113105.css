@@ -1,0 +1,10 @@
+.Intro{
+    display:flex;
+    flex-direction: row;
+}
+
+article{
+  flex-direction: row;
+  align-items: center;
+}
+

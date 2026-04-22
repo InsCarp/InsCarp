@@ -1,18 +1,14 @@
 .Intro{
     margin-top: 1rem;
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
 }
 
 #intro{
 
     text-align: center;
-    font-size:2rem;
-}
-
-#Me{
-    width:400px;
+    font-size:0.7rem;
 }
 
 

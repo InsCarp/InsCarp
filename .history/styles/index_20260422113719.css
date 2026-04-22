@@ -1,0 +1,12 @@
+.Intro{
+    margin-top: 1rem;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#intro{
+
+    text-align: center;
+    font-size:2rem;
+}

@@ -8,7 +8,7 @@
 }
 
 html{
-    font-size:25px;
+    font-size:20px;
 }
 
 a:visited{
@@ -51,9 +51,7 @@ header {
     font-family: Title;
     justify-content: space-between;
     background-color:rgb(27, 27, 27);
-    border-radius: 10px;
-    font-size:0.8rem;
-    
+    border-radius: 10px;;
 
 }
 nav{
@@ -72,7 +70,7 @@ nav{
 nav{
     text-align:right;
     display:initial;
-    font-size:0.4rem;
+    font-size:0.6rem;
     margin-top:8%;
 
 
@@ -92,7 +90,7 @@ nav{
 nav{
     text-align:right;
     display:initial;
-    font-size:0.6rem;
+    font-size:0.8rem;
     margin-top:2%;
     
 

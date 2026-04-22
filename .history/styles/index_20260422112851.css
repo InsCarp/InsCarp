@@ -1,0 +1,16 @@
+.intro{
+    display:flex;
+    flex-direction: column;
+}
+
+article{
+    display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#Me{
+    display:block;
+    margin: auto;
+    margin-top: 10px;
+}

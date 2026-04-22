@@ -1,0 +1,11 @@
+.intro{
+    display:flex;
+    flex-direction: row;
+}
+
+
+#Me{
+    display:block;
+    margin: auto;
+    margin-top: 10px;
+}

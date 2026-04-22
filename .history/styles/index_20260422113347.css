@@ -1,0 +1,10 @@
+.Intro{
+    display:flex;
+    flex-direction: row;
+}
+
+#intro{
+    justify-content: space-between;
+    text-align: right;
+    width:80px;
+}

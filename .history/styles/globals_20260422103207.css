@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Title;
+    src: url(/assets/fonts/Y224-2vdae.ttf);
+}
+@font-face {
+    font-family: Portfolio;
+    src: url(/assets/fonts/Eightgon-OGn6p.ttf);
+}
+
+body{
+    background-color:rgb(0, 2, 36);
+    color:rgb(255, 255, 255);
+    background-image: url(../assets/images/back.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Portfolio;
+}
+header {
+    display: flex;
+    flex-direction: row;
+}
+nav{
+    font-family: Title;
+    text-align: right;
+    ali
+}
+
+h1, h2{
+    color:aqua;
+
+}
+
+h3{
+    color:aquamarine;
+}

@@ -44,7 +44,7 @@ h3{
 }
 
 
-header {
+    header {
     display: flex;
     flex-direction: row;
     font-family: Title;
@@ -65,12 +65,7 @@ nav{
 
 }
 nav{
-    text-align:right;
-    display:initial;
-    font-size:0.6rem;
-    margin-top:8%;
-
-
+    font-size:0.8rem;
 }
 }
 
@@ -83,11 +78,8 @@ nav{
 
 }
 nav{
-    text-align:right;
-    display:initial;
-    font-size:0.8rem;
-    margin-top:2%;
-
+    justify-self: right;
 
 }
+
 }

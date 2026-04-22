@@ -65,11 +65,9 @@ nav{
 
 }
 nav{
-    text-align:right;
-    display:initial;
-    font-size:0.6rem;
-    margin-top:8%;
-
+    display:contents;
+    font-size:0.8rem;
+    width:60px;
 
 }
 }
@@ -82,12 +80,6 @@ nav{
     justify-content: space-between;
 
 }
-nav{
-    text-align:right;
-    display:initial;
-    font-size:0.8rem;
-    margin-top:2%;
 
 
-}
 }

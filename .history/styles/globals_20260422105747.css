@@ -8,7 +8,7 @@
 }
 
 html{
-    font-size:20px;
+    font-size:30px;
 }
 
 a:visited{
@@ -43,20 +43,7 @@ h3{
     color:aquamarine;
 }
 
-
-header {
-    display: flex;
-    flex-direction: row;
-    font-family: Title;
-    justify-content: space-between;
-
-}
-nav{
-    display:none;
-}
-
-
-@media only screen and (min-width: 800px){
+@media only screen and (max-width: 400px){
     header {
     display: flex;
     flex-direction: row;
@@ -65,12 +52,7 @@ nav{
 
 }
 nav{
-    text-align:right;
-    display:initial;
-    font-size:0.6rem;
-    margin-top:8%;
-
-
+    display:none;
 }
 }
 
@@ -83,11 +65,9 @@ nav{
 
 }
 nav{
-    text-align:right;
-    display:initial;
-    font-size:0.8rem;
-    margin-top:2%;
-
-
+    justify-self: right;
+    margin-top: 30px;
+    font-size:
 }
+
 }

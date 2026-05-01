@@ -1,8 +1,0 @@
-.Intro{
-    display:flex;
-    flex-direction: row;
-}
-
-#intro{
-    justify-content: space-between;
-}

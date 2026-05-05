@@ -51,7 +51,7 @@ h3{
 header {
     
     display: flex;
-    
+    position:fixed;
     flex-direction: row;
     font-family: Title;
     justify-content: space-between;

@@ -14,7 +14,7 @@
 
 #Me{
     margin-top: 1rem;
-    width:15rem;
+    width:20rem;
 }
 
 
@@ -32,10 +32,5 @@
     font-size:2rem;
     width: 20rem;
     margin-right: 10rem;
-}
-
-#Me{
-    margin-left:10rem;
-    width:20rem;
 }
 }

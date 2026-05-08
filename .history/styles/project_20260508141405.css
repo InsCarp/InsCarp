@@ -1,0 +1,17 @@
+#webimg {
+    width: 20rem;
+}
+
+#mine{
+    width: 20rem;
+}
+
+aside{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+article {
+    width: 20rem;
+}

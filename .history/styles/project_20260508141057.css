@@ -1,0 +1,17 @@
+#webimg {
+    width: 20rem;
+}
+
+#mine{
+    width: 20rem;
+}
+
+body{
+    display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+aside{
+    display: flex;
+    flex-direction: row;
+}

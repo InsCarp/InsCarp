@@ -1,0 +1,34 @@
+.Intro{
+    margin-top: 1rem;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#intro{
+
+    text-align: center;
+    font-size:2rem;
+    width: 20rem;
+}
+
+#Me{
+    margin-top: 1rem;
+    width:20rem;
+}
+
+
+@media only screen and (min-width: 800px){
+    .Intro{
+    margin-top: 1rem;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#intro{
+
+    text-align: center;
+    font-size:2rem;
+}
+}

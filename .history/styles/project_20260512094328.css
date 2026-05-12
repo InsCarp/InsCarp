@@ -1,19 +1,19 @@
 #webimg {
-    width: 15rem;
+    width: 20rem;
 }
 
 #mine{
-    width: 15rem;
+    width: 20rem;
 }
 
 aside{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-around;
 }
 
 article {
-    width: 15rem;
+    width: 20rem;
 }
 
 @media only screen and (min-width: 800px){
@@ -21,16 +21,6 @@ article {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-}
-#webimg {
-    width: 20rem;
-}
-
-#mine{
-    width: 20rem;
-}
-article {
-    width: 20rem;
 }
     
 }

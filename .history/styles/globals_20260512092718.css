@@ -64,12 +64,9 @@ nav{
 }
 
 footer{
-
     text-align: center;
     background-color:rgb(27, 27, 27);
-    padding:0.2rem;
-
-
+    padding:1px;
 }
 
 @media only screen and (min-width: 800px){
@@ -83,7 +80,7 @@ nav{
     text-align:right;
     display:initial;
     font-size:0.4rem;
-    margin-top:10px;
+    margin-top:8%;
 
 
 }

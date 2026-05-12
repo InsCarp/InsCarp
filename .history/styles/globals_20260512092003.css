@@ -49,14 +49,14 @@ h3{
 
 
 header {
-    position:sticky;
-    top:0;
+    position:fixed;
     display: flex;
     flex-direction: row;
     font-family: Title;
     background-color:rgb(27, 27, 27);
-    font-size:0.5rem;
+    font-size:0.6rem;
 
+    
 
 }
 nav{
@@ -64,12 +64,7 @@ nav{
 }
 
 footer{
-
     text-align: center;
-    background-color:rgb(27, 27, 27);
-    padding:0.2rem;
-
-
 }
 
 @media only screen and (min-width: 800px){
@@ -83,7 +78,7 @@ nav{
     text-align:right;
     display:initial;
     font-size:0.4rem;
-    margin-top:10px;
+    margin-top:8%;
 
 
 }

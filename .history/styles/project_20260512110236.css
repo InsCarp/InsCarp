@@ -1,11 +1,10 @@
 @keyframes grow{
-    20%{
-        transform: scale(1.05);
+    50%{
+        transform: scale(1.1);
     }
-        100%{
-        transform: scale(1.05);
+    100%{
+        transform: scale(1);
     }
-
 }
 
 
@@ -53,10 +52,9 @@ article {
 }
 article {
     width: 20rem;
+    animation: grow 2s infinite;
 
-}
-article:hover{
-    animation: grow 2s;
+      
 
 }
     

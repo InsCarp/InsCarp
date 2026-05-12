@@ -1,9 +1,7 @@
 @keyframes grow{
-    20%{
-        transform: scale(1.05);
-    }
+
         100%{
-        transform: scale(1.05);
+        transform: scale(1);
     }
 
 }

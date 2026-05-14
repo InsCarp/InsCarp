@@ -1,4 +1,12 @@
+@keyframes grow{
+    20%{
+        transform: scale(1.05);
+    }
+        100%{
+        transform: scale(1.05);
+    }
 
+}
 
 
 
@@ -56,13 +64,6 @@ section{
   width:13rem;
 }
 
-
-
-.card2:hover{
-    animation: grow 2s;
-
-}
-
 #webimg {
     width: 13rem;
 }
@@ -101,7 +102,7 @@ section{
 .cardholder{
     display: flex;
     flex-direction:row;
-    justify-content:flex-start;
+    
 
 }
 }

@@ -57,8 +57,11 @@ section{
 }
 
 
+.card:hover{
+    animation: grow 2s;
 
-.card2:hover{
+}
+.card:hover{
     animation: grow 2s;
 
 }
@@ -101,7 +104,7 @@ section{
 .cardholder{
     display: flex;
     flex-direction:row;
-    justify-content:flex-start;
+    
 
 }
 }

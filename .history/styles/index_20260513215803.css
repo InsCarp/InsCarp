@@ -56,13 +56,6 @@ section{
   width:13rem;
 }
 
-
-
-.card2:hover{
-    animation: grow 2s;
-
-}
-
 #webimg {
     width: 13rem;
 }
@@ -101,7 +94,7 @@ section{
 .cardholder{
     display: flex;
     flex-direction:row;
-    justify-content:flex-start;
+    
 
 }
 }

@@ -1,7 +1,3 @@
-
-
-
-
 .Intro{
     margin-top: 1rem;
     display:flex;
@@ -30,13 +26,8 @@ section{
 
 }
 
-.cardholder{
-    display: flex;
-    flex-direction:column;
-}
-
 .card{
-  margin:10px;
+  margin: 10px;
   background-color:rgb(0, 0, 0);
   padding:10px;
   border: 3px;
@@ -46,29 +37,14 @@ section{
   width:13rem;
 }
 .card2{
-  margin:10px;
+  margin: 10px;
   background-color:rgb(0, 0, 0);
   padding:10px;
   border: 3px;
   border-radius:10px;
-  box-shadow: 0 0 40px 0 rgb(204, 255, 0);
+  box-shadow: 0 0 40px 0 rgb(0, 204, 255);
   opacity: 20;
   width:13rem;
-}
-
-
-
-.card2:hover{
-    animation: grow 2s;
-
-}
-
-#webimg {
-    width: 13rem;
-}
-
-#mine{
-    width: 13rem;
 }
 
 .Contact{
@@ -97,16 +73,9 @@ section{
 .about{
     width:30rem;
 }
-
-.cardholder{
-    display: flex;
-    flex-direction:row;
-    justify-content:flex-start;
-
-}
 }
 
-@media only screen and (min-width: 1200px){
+@media only screen and (min-width: 800px){
     #Me{
     margin-left:15%;
     width:20rem;

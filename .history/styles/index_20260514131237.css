@@ -20,7 +20,8 @@
 #Me{
     margin-top: 1rem;
     width:15rem;
-
+    border:2px;
+    border-color: aqua;
 }
 
 

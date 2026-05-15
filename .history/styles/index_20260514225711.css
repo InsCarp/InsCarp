@@ -78,7 +78,9 @@ section{
     border-radius: 50px;
     background-color: black;
     border-color: aqua;
-    margin:15px;
+    color:white;
+    cursor:pointer;
+    margin:5px;
 
 }
 .Download:hover{

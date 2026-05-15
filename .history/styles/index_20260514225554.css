@@ -77,12 +77,8 @@ section{
     padding:10px;
     border-radius: 50px;
     background-color: black;
-    border-color: aqua;
-    margin:15px;
+    cursor:pointer;
 
-}
-.Download:hover{
-    animation: grow 2s;
 }
 
 .Contact{

@@ -73,16 +73,8 @@ section{
 }
 
 .Download{
-    font-size:1rem;
-    padding:10px;
-    border-radius: 50px;
-    background-color: black;
-    border-color: aqua;
-    margin:15px;
+    font-size:3rem;
 
-}
-.Download:hover{
-    animation: grow 2s;
 }
 
 .Contact{

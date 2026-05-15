@@ -74,15 +74,10 @@ section{
 
 .Download{
     font-size:1rem;
-    padding:10px;
-    border-radius: 50px;
-    background-color: black;
-    border-color: aqua;
-    margin:15px;
+    padding:5px;
+    border-radius: 45%;
+    cursor:pointer;
 
-}
-.Download:hover{
-    animation: grow 2s;
 }
 
 .Contact{

@@ -78,6 +78,8 @@ section{
     border-radius: 50px;
     background-color: black;
     border-color: aqua;
+    color:white;
+    cursor:pointer;
     margin:15px;
 
 }

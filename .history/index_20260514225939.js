@@ -1,1 +1,0 @@
-const download = document.querySelector('.Download');

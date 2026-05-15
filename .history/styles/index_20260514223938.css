@@ -95,7 +95,9 @@ section{
 
 
 
-
+.about{
+    width:30rem;
+}
 
 .cardholder{
     display: flex;

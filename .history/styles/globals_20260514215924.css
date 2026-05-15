@@ -18,11 +18,6 @@
 
 }
 
-@keyframes backcolor{
-    
-}
-
-
 html{
     font-size:25px;
 }
@@ -42,24 +37,20 @@ a:active{
 }
 
 body{
-    background-image: linear-gradient(to bottom, rgb(25, 58, 55) , rgb(4, 4, 6));
+    background-color:rgb(2, 2, 9);
     color:rgb(255, 255, 255);
-    animation: backcolor 7s infinite;
-    text-align:center;
-
     
-    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: Portfolio;
 }
-    
 
 
 
 
 h1, h2{
     color:aqua;
-    
-
 
 }
 

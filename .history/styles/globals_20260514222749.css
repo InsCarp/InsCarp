@@ -42,10 +42,9 @@ a:active{
 }
 
 body{
-    background-image: linear-gradient(to bottom, rgb(25, 58, 55) , rgb(4, 4, 6));
+    background-image: linear-gradient(to left, rgb(62, 138, 131) , rgb(4, 4, 6));
     color:rgb(255, 255, 255);
     animation: backcolor 7s infinite;
-    text-align:center;
 
     
     

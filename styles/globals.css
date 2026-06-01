@@ -1,10 +1,10 @@
 @font-face {
     font-family: Title;
-    src: url(./../../assets/fonts/Y224-2vdae.ttf);
+    src: url(/../../assets/fonts/Y224-2vdae.ttf);
 }
 @font-face {
     font-family: Portfolio;
-    src: url(./../../assets/fonts/Eightgon-OGn6p.ttf);
+    src: url(/../../assets/fonts/Eightgon-OGn6p.ttf);
 }
 
 
